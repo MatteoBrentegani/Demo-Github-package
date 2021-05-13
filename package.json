@@ -1,0 +1,22 @@
+{
+  "name": "demo-github-package",
+  "version": "1.0.0",
+  "description": "test npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatteoBrentegani/Demo-Github-package.git"
+  },
+  "keywords": [
+    "v1.0"
+  ],
+  "author": "matteobrentegani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatteoBrentegani/Demo-Github-package/issues"
+  },
+  "homepage": "https://github.com/MatteoBrentegani/Demo-Github-package#readme"
+}
